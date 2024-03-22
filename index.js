@@ -57,3 +57,5 @@ if (currentHour >= 7 && currentHour < 24) {
 } else {
     console.log("Better stick to water.");
 }
+
+// we rock
